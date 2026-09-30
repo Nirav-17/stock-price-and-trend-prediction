@@ -1,1 +1,1 @@
-# stock-price-and-trend-prediction
+# Realised Volatility prediction
